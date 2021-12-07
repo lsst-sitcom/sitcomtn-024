@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{SITCOMTN-024,
+   author = { Patrick Ingraham },
+    title = {Summit Power Reliability and Risk Evaluation Task Force Charge},
+     year = 2021,
+    month = Dec,
+   handle = {SITCOMTN-024},
+      url = {https://sitcomtn-024.lsst.io } }
