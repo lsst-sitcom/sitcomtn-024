@@ -42,14 +42,10 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the main branch.
-
 .. note::
 
    This technote details the charge to the Summit Power Reliability and Risk Evaluation Task Force who will perform an analysis of the current and anticipated state of the summit electrical system including possible failure scenarios. 
    It will also analyze how information gets communicated to stakeholders and which procedures need to be in place to ensure an appropriate level of risk during summit-based commissioning and operational activities.
-
-   This document is to be considered an initial draft of this charge and requires finalization and formal creation of task force.
 
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
@@ -95,6 +91,7 @@ The following items shall be addressed by the task force:
    This may include warming up cameras, disconnecting the electrical connection when people are not onsite etc.
 
 #. What corrective actions must be put in place prior to resuming activities that were halted and/or reduced as per the recommendations in question 4?
+   This includes identifying systems that may cause electrical transients and implementing mitigations to reduce/eliminate risk.
    Activities may include ComCam testing, AuxTel observing runs, and hardware integration on level 3.
 
 #. Identify the summit equipment that is susceptible to damage and/or failure if electrical transients occur:
@@ -104,7 +101,7 @@ The following items shall be addressed by the task force:
    - Are the requirements sufficient to obtain the level of acceptable risk?
    - Have the requirements been covered and verified such that the risk to critical equipment is below the accepted level?
 
-#. What further systems and/or procedures should be put in place to reduce risk in the future? 
+#. What further systems, verification tests, and/or procedures should be put in place to reduce risk in the future? 
    Identify deadlines where appropriate.
 
 #. What mechanisms need to be in place for on-the-ground personnel to get the required information they need to address issues encountered during power and/or network failures? 
@@ -114,22 +111,27 @@ The following items shall be addressed by the task force:
 #. What activities are planned to ensure the required power and networking systems are properly specified and verified prior to the camera installation and observing? 
    Are failure scenarios addressed as part of the review criteria?
 
+#. Based on the findings in the deliverables above, create a series of recommendations on how Rubin can improve both the electrical system and our response to transients and outages.
+
 
 Timeline
 ========
 
-This group is to complete items 1-4 of this charge by December 23rd, with items 5 and 6 to be completed by January 10th (TBR), and items 7-10 delivered Feb 10th (TBR).
+This group is to complete items 1-4 of this charge and deliver a brief report by December 23rd, 2021.
+A short debrief to to clarify any findings will be conducted on January 4th, 2022.
+Items 5 and 6 are to be completed by January 15th, and items 7-10 delivered Feb 10th.
+A final debrief presentation/discussion should follow shortly after (Feb 13, 2022)
 
 
 Aspects Considered Out-Of-Scope
 ===============================
 
-#. Creation of the LCR to support any suggested changes
+#. Creation of the LCR to support any suggested changes. 
 #. Design of the components and/or systems to incorporate any new functionality
 
 
-Task Force Members (TBR)
-========================
+Task Force Members
+==================
 
 The number of members is intentionally small to facilitate a rapid turn-around of the deliverables. 
 When required, team members are expected to summon additional personnel, specifically those responsible for systems on the summit, for individual meetings to capture additional information. 
@@ -137,13 +139,13 @@ It is recommended that the team meet multiple times per week but for shorter int
 
 Suggestions for task force members include:
 
-- IT Representative - Cristian Silva (delegate to Heinrich or Julio?) 
-- Camera Team Representative - Travis Lange (Diane as a backup?)
-- Summit Electrical Engineer - Luis Vergara (Juan Fabrega another option but may be too busy)
-- Summit Facilities Representative - Oscar Nunez (TBD)
-- SIT-Com representative with operations experience - Erik Dennihy or Bruno Quint
+- Systems Engineering Representative (Chair) - Holger Drass
+- IT Representative - Julio Constanzo
+- Camera Team Representative - Tony Johnson (alterate Martin Nordby)
+- Summit Electrical Engineer - Luis Vergara (alternate Juan Fabrega)
+- Summit Facilities Representative - Oscar Nunez (alternate Eduardo Serrano)
+- SIT-Com representative with operations experience - Erik Dennihy (alternate Bruno Quint)
 
-A chair must also be selected.
 
 .. .. rubric:: References
 
