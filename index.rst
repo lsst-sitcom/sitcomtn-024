@@ -57,7 +57,7 @@ The summit system has experienced three electrical events within a 10-day period
 During these events, the systems in place to protect the hardware did not meet the intended design and failures occurred. 
 Furthermore, the notification of the failures did not reach the stakeholders within an amount of time where their reaction may have helped mitigate the on-going problems. 
 Lastly, an analysis is required to determine if the information available on-site is sufficient to perform mitigation activities in the event of a power and/or network failure. 
-This includes sufficient receiving sufficient instruction and documentation from the personnel responsible for the critical hardware and instruments on the summit. 
+This includes receiving sufficient instruction and documentation from the personnel responsible for the critical hardware and instruments on the summit. 
 
 Motivation
 ==========
@@ -139,10 +139,10 @@ It is recommended that the team meet multiple times per week but for shorter int
 
 Suggestions for task force members include:
 
-- Systems Engineering Representative (Chair) - Holger Drass
-- IT Representative - Julio Constanzo
+- Systems Engineering Representative (Co-chair) - Holger Drass
+- Summit Electrical Engineer (Co-chair) - Luis Vergara (alternate Juan Fabrega) 
+- IT Representative - Julio Constanzo (alternate Cristian Silva)
 - Camera Team Representative - Tony Johnson (alterate Martin Nordby)
-- Summit Electrical Engineer - Luis Vergara (alternate Juan Fabrega)
 - Summit Facilities Representative - Oscar Nunez (alternate Eduardo Serrano)
 - SIT-Com representative with operations experience - Erik Dennihy (alternate Bruno Quint)
 
